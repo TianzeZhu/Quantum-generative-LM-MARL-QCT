@@ -1,0 +1,39 @@
+{
+  "origin": "deterministic_reconstruction_not_original_capture",
+  "jax": "0.7.1",
+  "backend": "cpu",
+  "dtype": "float64",
+  "source_artifact_sha256": "92cedf244832b85747b61bfaad5048e26608ddf07c942cdb94726d706e9d6c34",
+  "config": {
+    "batch_size": 16,
+    "beta1": 0.9,
+    "beta2": 0.99,
+    "eps": 1e-08,
+    "layers1": 1,
+    "layers2": 1,
+    "lr": 0.01,
+    "n": 3,
+    "seed": 2026,
+    "softmax_beta": 1.0,
+    "steps": 1600,
+    "validation_size": 256
+  },
+  "functions": {
+    "softmax": {
+      "training_samples": 25600,
+      "validation_samples": 256,
+      "reconstructed_validation_loss": 0.01570895771370684,
+      "recorded_validation_loss": 0.01570895771370684,
+      "absolute_error": 0.0,
+      "sha256": "aa0afb3fb10a7e3f3986224f7e51ab007d2e35093affe0113cd9c22c982bd842"
+    },
+    "sigmoid": {
+      "training_samples": 25600,
+      "validation_samples": 256,
+      "reconstructed_validation_loss": 0.016914001056627104,
+      "recorded_validation_loss": 0.016914001056627104,
+      "absolute_error": 0.0,
+      "sha256": "6558950deff890c4256234207b602342c380b8cc2a06b5cc8fa90036c29d7a63"
+    }
+  }
+}

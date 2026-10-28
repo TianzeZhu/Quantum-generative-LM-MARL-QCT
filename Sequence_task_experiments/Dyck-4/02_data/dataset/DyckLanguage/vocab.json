@@ -1,0 +1,48 @@
+{
+  "tokenization": "Python str.split(), case-sensitive; punctuation counts if space-separated.",
+  "built_from": "train only",
+  "special_tokens": [
+    "<pad>",
+    "<unk>",
+    "<bos>",
+    "<eos>"
+  ],
+  "source": {
+    "<pad>": 0,
+    "<unk>": 1,
+    "<bos>": 2,
+    "<eos>": 3,
+    "(": 4,
+    ")": 5,
+    "<": 6,
+    ">": 7,
+    "[": 8,
+    "]": 9,
+    "{": 10,
+    "}": 11
+  },
+  "target": {
+    "<pad>": 0,
+    "<unk>": 1,
+    "<bos>": 2,
+    "<eos>": 3,
+    ")": 4,
+    ">": 5,
+    "]": 6,
+    "}": 7
+  },
+  "shared": {
+    "<pad>": 0,
+    "<unk>": 1,
+    "<bos>": 2,
+    "<eos>": 3,
+    "(": 4,
+    ")": 5,
+    "<": 6,
+    ">": 7,
+    "[": 8,
+    "]": 9,
+    "{": 10,
+    "}": 11
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "arrays": {
+    "sigmoid_loss_history": {
+      "dtype": "float64",
+      "sha256": "63afbcc5e27185d4855e86d1f417f6b3b8fb297ae52884855862401ae8271698",
+      "shape": [
+        1600
+      ]
+    },
+    "sigmoid_params": {
+      "dtype": "float64",
+      "sha256": "cb709ec78b21d5fae526c449e3214ebfc4ea0d56c9efea77787a0ab81e6e3c6f",
+      "shape": [
+        126
+      ]
+    },
+    "sigmoid_validation_loss": {
+      "dtype": "float64",
+      "sha256": "3573307dad302d8845843f0f57d75bcc27288593fbb45582e45dcc8e3299d4ce",
+      "shape": []
+    },
+    "softmax_loss_history": {
+      "dtype": "float64",
+      "sha256": "3936d9660b9f7ae59094aab87e0a69cf35c16b7a4ab924a2cf615f7ea5f913a4",
+      "shape": [
+        1600
+      ]
+    },
+    "softmax_params": {
+      "dtype": "float64",
+      "sha256": "7e1daca75982443c79b78de5fb3fc241464d469dc832e2c801d50b77153abfca",
+      "shape": [
+        126
+      ]
+    },
+    "softmax_validation_loss": {
+      "dtype": "float64",
+      "sha256": "582096c589d248f3a61e8946d6e5265e20a108835e59d58030653c458dc47d11",
+      "shape": []
+    }
+  },
+  "artifact_id": "dcc0b9a720014200b3b0d3a9c96149ed",
+  "config": {
+    "batch_size": 16,
+    "beta1": 0.9,
+    "beta2": 0.99,
+    "eps": 1e-08,
+    "layers1": 1,
+    "layers2": 1,
+    "lr": 0.01,
+    "n": 3,
+    "seed": 2026,
+    "softmax_beta": 1.0,
+    "steps": 1600,
+    "validation_size": 256
+  },
+  "created_at_utc": "2026-09-04T09:57:23.127438+00:00",
+  "format": "quantum_transformer.nonlinear_pretraining.jax",
+  "format_version": 1,
+  "metadata": {
+    "environment": {
+      "backend": "gpu",
+      "devices": [
+        "cuda:0"
+      ],
+      "jax": "0.7.1",
+      "jaxlib": "0.7.1",
+      "numpy": "2.2.6",
+      "pennylane": "0.44.1",
+      "python": "3.11.15",
+      "x64": true
+    }
+  },
+  "metrics": {
+    "sigmoid": {
+      "last_train_loss": 0.021042641309364063,
+      "validation_fidelity": 0.9830859989433729,
+      "validation_loss": 0.016914001056627104
+    },
+    "softmax": {
+      "last_train_loss": 0.014488048591795089,
+      "validation_fidelity": 0.9842910422862932,
+      "validation_loss": 0.01570895771370684
+    }
+  },
+  "npz_sha256": "92cedf244832b85747b61bfaad5048e26608ddf07c942cdb94726d706e9d6c34",
+  "producer": {
+    "module": "io_jax",
+    "numpy": "2.2.6"
+  },
+  "topology": {
+    "implementation": "pure_jax_statevector",
+    "layers1": 1,
+    "layers2": 1,
+    "n": 3,
+    "name": "paper_nonlinear_layer",
+    "parameter_count_per_function": 126,
+    "postselection": "zero_branch_normalization"
+  }
+}

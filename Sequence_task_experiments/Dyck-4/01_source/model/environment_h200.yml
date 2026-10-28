@@ -1,0 +1,19 @@
+# Linux/NVIDIA H200 environment for the serialized JAX simulator.
+# Create this as a prefix environment; the `name` is only a readable fallback.
+name: sequence_tasks_jax_h200
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11.15
+  - pip
+  - numpy=2.2.6
+  - scipy>=1.13,<2
+  - pip:
+      # The cuda12 extra installs JAX's CUDA plugin and CUDA runtime libraries.
+      # Do not add conda cudatoolkit to this environment unless switching to
+      # JAX's documented local-CUDA installation method.
+      - "jax[cuda12]==0.7.1"
+      - pennylane==0.44.1
+      - pennylane-lightning==0.44.0

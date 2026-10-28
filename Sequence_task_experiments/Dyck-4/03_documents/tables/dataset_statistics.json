@@ -1,0 +1,44 @@
+[
+  {
+    "split": "train",
+    "examples": 210,
+    "source_tokens": 740,
+    "target_tokens": 438,
+    "labels_with_eos": 648,
+    "source_min": 1,
+    "source_max": 4,
+    "source_mean": 3.5238095238095237,
+    "target_min": 1,
+    "target_max": 3,
+    "target_mean": 2.085714285714286,
+    "max_depth": 3
+  },
+  {
+    "split": "dev",
+    "examples": 49,
+    "source_tokens": 174,
+    "target_tokens": 104,
+    "labels_with_eos": 153,
+    "source_min": 2,
+    "source_max": 4,
+    "source_mean": 3.5510204081632653,
+    "target_min": 1,
+    "target_max": 3,
+    "target_mean": 2.122448979591837,
+    "max_depth": 3
+  },
+  {
+    "split": "test",
+    "examples": 49,
+    "source_tokens": 178,
+    "target_tokens": 102,
+    "labels_with_eos": 151,
+    "source_min": 2,
+    "source_max": 4,
+    "source_mean": 3.63265306122449,
+    "target_min": 1,
+    "target_max": 3,
+    "target_mean": 2.0816326530612246,
+    "max_depth": 3
+  }
+]

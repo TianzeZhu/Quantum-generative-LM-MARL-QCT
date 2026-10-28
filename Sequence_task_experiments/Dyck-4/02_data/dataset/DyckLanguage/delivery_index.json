@@ -1,0 +1,17 @@
+{
+  "source_dataset_sha256": "37ecc8d93f6ee6a24516b9ecd3affbc517cc9636756dffcfed76f0be43609dcf",
+  "files": {
+    "dev.jsonl": "2c30c7975aa5fe4c6e153cfe5e597620682a00ac98a2fab12418984172b8c493",
+    "dev.src": "2f5f03fd6d7104cbdc573f91b16aeb2007a856a5d971eb274da198e1a5f16d1a",
+    "dev.tgt": "796c718bc8f11701612314093739f8853a6d80fe96de58fb1133101dd5a9da18",
+    "manifest.json": "2ee9a16dc23ab89499dc66f4befd4a6bde2dbfe450ad4c2beddbad1b90444f2f",
+    "test.jsonl": "8f096131bb33c4807904a9db05c72960ed1350c2856776d783a708bf32e6fe34",
+    "test.src": "cf0a7a0c8b22f70ae8a4f640e911c7baecdef8be1cf3121b8981811f37554dfa",
+    "test.tgt": "0baae14aa3b48ac00405be88aa5306be940e34cfae23e00adc64ba98d510527c",
+    "train.jsonl": "fb5e332c8f0f03b9576c4f7b5ac7d9bea1ca5d8fee3094e3f4a7a1550aeb8151",
+    "train.src": "4f41ada0906693e067992b861c3f85327b28ea289946d5a9379818fddb8a25b3",
+    "train.tgt": "d83eabc4bb76fdfa34f1ff3c73f8a0a45cde00f7526a5b7ba934c0ae36396cff",
+    "vocab.json": "ec964b61b93530a062676fabfd83c741d4af0d6e9f4decd907f7e03ed75d9232"
+  },
+  "policy": "Validate each delivered file first, then use the original experiment dataset identifier for checkpoint compatibility. This is not a recomputation of the source directory digest."
+}

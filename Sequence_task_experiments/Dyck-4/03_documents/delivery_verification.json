@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "pdf_pages": 14,
+  "python_syntax": "PASS",
+  "shell_syntax": "PASS",
+  "portable_preflight": "PASS (CPU, --skip-kernel; no training rerun)",
+  "source_and_dataset_hashes": "PASS",
+  "dataset_counts": {
+    "train": 210,
+    "dev": 49,
+    "test": 49
+  },
+  "dataset_compatibility_identifier": "37ecc8d93f6ee6a24516b9ecd3affbc517cc9636756dffcfed76f0be43609dcf",
+  "pretraining_validation_reconstruction_loss_absolute_error": {
+    "softmax": 0.0,
+    "sigmoid": 0.0
+  },
+  "scope": "Final ordinary test only; original source snapshot and exact archived experiment records. Synthetic pretraining arrays are explicitly labeled as reconstructed.",
+  "report_revision": {
+    "basis": "user-edited Word document",
+    "native_word_equations": 56,
+    "display_equations": 7,
+    "inline_equations": 49,
+    "all_heading_fonts": "宋体",
+    "word_open_and_pdf_export": "PASS",
+    "user_original_backup": "../document_revision_backups/20260914_222714/"
+  }
+}

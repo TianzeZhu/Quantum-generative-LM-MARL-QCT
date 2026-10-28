@@ -1,0 +1,210 @@
+{"input": "< ( ) [", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ ] {", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] <", "output": ">", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( ) [", "output": "] )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < {", "output": "} > ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { } (", "output": ") ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { {", "output": "} } }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { }", "output": ")", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "<", "output": ">", "valid_k": [4], "input_length": 1, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { <", "output": "> } ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] < {", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < > [", "output": "] }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { {", "output": "} } >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ <", "output": "> ]", "valid_k": [4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ <", "output": "> ] >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( ) <", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < > (", "output": ") }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > [ <", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ ]", "output": "]", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] {", "output": "}", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < >", "output": ")", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > [ {", "output": "} ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { (", "output": ") } ]", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ < >", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { }", "output": "}", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { { }", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ ] <", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < [", "output": "] > ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < {", "output": "} > )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ <", "output": "> }", "valid_k": [4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < { }", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ < >", "output": "] }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { [", "output": "] } ]", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < < >", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] < <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > { {", "output": "} }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( (", "output": ") ) >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { } {", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < { }", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ [", "output": "] ] }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < > {", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( {", "output": "} ) )", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] { (", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { } [", "output": "] ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] [ [", "output": "] ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } [ [", "output": "] ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) ( [", "output": "] )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) {", "output": "}", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "(", "output": ")", "valid_k": [2, 3, 4], "input_length": 1, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { [", "output": "] } >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ ( )", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > { <", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( [ <", "output": "> ] )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( ( )", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < < >", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > [ (", "output": ") ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( (", "output": ") )", "valid_k": [2, 3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( ) (", "output": ") ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] < (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { } <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { } {", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( ) {", "output": "} )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ <", "output": "> ] }", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < > {", "output": "} ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( ) [", "output": "] ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( [ ]", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] [ <", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( { }", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < (", "output": ") > )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ ] <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < >", "output": "}", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [", "output": "] }", "valid_k": [3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( < >", "output": ") ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < [ ]", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > (", "output": ")", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < < >", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { [", "output": "] } )", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( <", "output": "> ) ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( <", "output": "> )", "valid_k": [4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{", "output": "}", "valid_k": [3, 4], "input_length": 1, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < > <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } (", "output": ")", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } [ <", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) ( {", "output": "} )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] { <", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ {", "output": "} ] ]", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < (", "output": ") > ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > ( (", "output": ") )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] < [", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < > <", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] [", "output": "]", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < (", "output": ") > >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ [", "output": "] ] ]", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ ( )", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( ) [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( ) <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) { [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( { }", "output": ") )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > ( {", "output": "} )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( {", "output": "} ) }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< (", "output": ") >", "valid_k": [4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } { (", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( ) {", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { <", "output": "> } >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( < >", "output": ") )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } <", "output": ">", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < > (", "output": ") )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < > {", "output": "} )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > [", "output": "]", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > { [", "output": "] }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { { }", "output": "} )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { } (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { { }", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ ] [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] ( [", "output": "] )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < [ ]", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > <", "output": ">", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } ( {", "output": "} )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[", "output": "]", "valid_k": [2, 3, 4], "input_length": 1, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] { {", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < ( )", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( [", "output": "] ) }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( [ ]", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { }", "output": "]", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] [ {", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < >", "output": ">", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } { <", "output": "> }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( [", "output": "] ) >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) { (", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] (", "output": ")", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ [ ]", "output": "] ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] ( (", "output": ") )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < < >", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > [ [", "output": "] ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [", "output": "] ]", "valid_k": [2, 3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( [ [ ]", "output": "] )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { < >", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < > {", "output": "} }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } < (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( )", "output": ">", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ {", "output": "} }", "valid_k": [3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { < >", "output": "} }", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } { [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < <", "output": "> > ]", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < { }", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) < [", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ ] (", "output": ") ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( )", "output": ")", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< ( ) (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > < [", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { (", "output": ") } }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ] { [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < ( )", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { {", "output": "} } ]", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ ] {", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) < (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < {", "output": "} > }", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( [ ]", "output": ") )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { {", "output": "} } )", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ [ { }", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ [", "output": "] ] >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) < <", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ ( )", "output": "] ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { [", "output": "] } }", "valid_k": [3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( ( )", "output": ") ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } ( <", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { ( )", "output": "} )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { [ ]", "output": "} }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { <", "output": "> } )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ ] (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( (", "output": ") ) ]", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ (", "output": ") }", "valid_k": [3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( [", "output": "] )", "valid_k": [2, 3, 4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { } [", "output": "] )", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < ( )", "output": "> >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ ( ) {", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { } [", "output": "] }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( <", "output": "> ) )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( { } <", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < > [", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) ( <", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< > ( [", "output": "] )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) (", "output": ")", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < > (", "output": ") >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < {", "output": "} > >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < > [", "output": "] ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ) [ (", "output": ") ]", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < > (", "output": ") ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ < <", "output": "> > }", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( [", "output": "] ) )", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ (", "output": ") ] ]", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< [ { }", "output": "] >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( ( (", "output": ") ) )", "valid_k": [2, 3, 4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< < [", "output": "] > >", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } {", "output": "}", "valid_k": [3, 4], "input_length": 3, "output_length": 1, "max_depth": 1, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } [ (", "output": ") ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { { }", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ { <", "output": "> } }", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< { [ ]", "output": "} >", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < >", "output": "]", "valid_k": [4], "input_length": 3, "output_length": 1, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ } [ {", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < > [", "output": "] )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "< {", "output": "} >", "valid_k": [4], "input_length": 2, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( [ ] (", "output": ") )", "valid_k": [2, 3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < [ ]", "output": "> )", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ < [ ]", "output": "> ]", "valid_k": [4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ [ { }", "output": "] ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "( < [", "output": "] > )", "valid_k": [4], "input_length": 3, "output_length": 3, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "{ ( ) (", "output": ") }", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 2, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
+{"input": "[ { [ ]", "output": "} ]", "valid_k": [3, 4], "input_length": 4, "output_length": 2, "max_depth": 3, "origin": {"generator": "enumerate_dyck_prefixes_v1", "seed": 20260911}}
